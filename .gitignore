@@ -1,0 +1,7 @@
+.idea
+.python-version
+
+# byte-compiled / optimized
+__pycache__
+*.pyc
+*.egg-info
